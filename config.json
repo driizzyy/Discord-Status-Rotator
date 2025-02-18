@@ -1,0 +1,60 @@
+{
+    "token": "YOUR_USER_TOKEN_HERE",
+    "delay": 5,
+    "statuses": [
+        {
+            "status": ".gg/driizzyy-boosts",
+            "emoji_id": "1311021341125771436",
+            "emoji_name": ":DriizzyyBoosts:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "Cheap Nitro!",
+            "emoji_id": "818117905254055936",
+            "emoji_name": ":nitrochanging:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "BEST Prices!!",
+            "emoji_id": "1307782337383366656",
+            "emoji_name": ":Cash_fly:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "FAST DELIVERY",
+            "emoji_id": "1307782538344923228",
+            "emoji_name": ":rocket11212:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "Quick Responses!!",
+            "emoji_id": "1307782551326298254",
+            "emoji_name": ":NRun:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "Boost Bot $12",
+            "emoji_id": "1254165612809158656",
+            "emoji_name": ":bot:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "24/7 Support!",
+            "emoji_id": "905561421436321873",
+            "emoji_name": ":rainbowsupport:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "Cheap Tools",
+            "emoji_id": "1280450097930309664",
+            "emoji_name": ":blob_DanceLight~1:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "Trusted :)",
+            "emoji_id": "1307782417930518570",
+            "emoji_name": ":Check:",
+            "nitro_emoji": true
+        }
+    ]
+}
